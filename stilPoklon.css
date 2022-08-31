@@ -29,7 +29,7 @@ h5 {
 	margin: 0;
 	padding: 3px 10px 0 10px;
 	text-align: center;
-	background: url(images/h5_bg.png) no-repeat top left;
+	background: url(h5_bg.png) no-repeat top left;
 }
 h6 { font-size: 12px; margin: 0 0 5px 0; padding: 0;}
 blockquote { font-style: italic; }
@@ -177,7 +177,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 }
 
 #templatemo_menu li a:hover, #templatemo_menu li .current {
-	background: url(images/menu_hover.png) no-repeat;
+	background: url(menu_hover.png) no-repeat;
 }
 
 
@@ -200,7 +200,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	padding: 40px 15px;
 	margin: 0 auto;
 	color: rgb(125, 94, 94);	
-    background: url(images/poklonPozadina.jpg) no-repeat;
+    background: url(poklonPozadina.jpg) no-repeat;
 
 }
 
@@ -313,7 +313,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	left: 0;
 	width: 89px;
 	height: 59px;
-	background: url(images/news_image_frame.png) no-repeat;
+	background: url(news_image_frame.png) no-repeat;
 }
 
 .newsbox p {
@@ -327,7 +327,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	width: 914px;
 	height: 135px;
 	padding: 20px 30px;
-	background: url(images/latest_projects.png) no-repeat;
+	background: url(latest_projects.png) no-repeat;
 }
 
 #latest_project_text {
@@ -335,7 +335,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	width: 180px;
 	padding: 0 20px 0 0;
 	margin-right: 15px;
-	background: url(images/gallery_divider.png) right center no-repeat;
+	background: url(gallery_divider.png) right center no-repeat;
 }
 
 #latest_project_text p {
@@ -365,12 +365,9 @@ ul li a { font-weight: normal; text-decoration: none; }
 	left: 0;
 	width: 150px;
 	height: 113px;
-	background: url(images/project_image.png) no-repeat;
+	background: url(project_image.png) no-repeat;
 }
 
-/* testimonial */
-
-/* end of testimonial */
 
 .sajam {
 	margin: 0px;
