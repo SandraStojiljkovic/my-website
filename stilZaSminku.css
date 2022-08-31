@@ -6,7 +6,7 @@ body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 12px;
 	color: #666666;
-    background: url(images/pozadinaRozeCvett.jpg) no-repeat;
+    background: url(pozadinaRozeCvett.jpg) no-repeat;
 
 }
 
@@ -35,11 +35,11 @@ img { margin: 0px; padding: 0px; border: none; }
 	font-size: 11px;
 	font-weight: bold;
 	text-decoration: none;
-	background: url(images/templatemo_button_01.png) no-repeat;
+	background: url(templatemo_button_01.png) no-repeat;
 }
 
 .button_01 a:hover {
-		background: url(images/templatemo_button_01_hover.png) no-repeat;	
+		background: url(templatemo_button_01_hover.png) no-repeat;	
 
 }
 
@@ -213,34 +213,13 @@ h5{
 	margin-right: 20px;
 }
 
-#templatemo_follow_me .social_network {
-	float: right;
-	margin: 0px;
-	padding: 0px;
-	list-style: none;
-}
-
-
-#templatemo_follow_me .social_network li {
-	margin: 0px;
-	padding: 0px;
-	display: inline;
-}
-
-#templatemo_follow_me .social_network li a {
-	float: left;
-	display: block;
-	width: 62px;
-	height: 78px;
-	margin-left: 10px;
-}
 
 #templatemo_follow_me .social_network li .facebook {
-	background: url(images/facebook_icon.png) no-repeat;
+	background: url(facebook_icon.png) no-repeat;
 }
 
 #templatemo_follow_me .social_network li .instagram {
-	background: url(images/instagram_icon.png) no-repeat;
+	background: url(instagram_icon.png) no-repeat;
 }
 /* end of menu */
 
@@ -353,7 +332,7 @@ h5{
 #templatemo_footer_wrapper {
 	width: 100%;
 	margin: 0 auto;
-	background: palegoldenrod #e5dac6 url(images/templatemo_footer_bg.jpg) repeat-x top;
+	background: palegoldenrod #e5dac6 url(templatemo_footer_bg.jpg) repeat-x top;
 }
 
 #templatemo_footer {
