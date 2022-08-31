@@ -29,7 +29,7 @@ h5 {
 	margin: 0;
 	padding: 3px 10px 0 10px;
 	text-align: center;
-	background: url(images/h5_bg.png) no-repeat top left;
+	background: url(h5_bg.png) no-repeat top left;
 }
 h6 { font-size: 12px; margin: 0 0 5px 0; padding: 0;}
 blockquote { font-style: italic; }
@@ -59,7 +59,7 @@ cite { font-weight: normal; color: #1d68b6; font-size: 14px; }
 	width: 119px;
 	height: 33px;
 	padding: 3px 0 0 12px;
-	background: url(images/readmore.png) no-repeat;
+	background: url(readmore.png) no-repeat;
 		
 	color: #ccc;
 	font-weight: bold;
@@ -81,7 +81,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	display: block;
 	float: right;
 	padding: 0px 0 2px 12px;
-	background: url(images/read_more.png) center left no-repeat;
+	background: url(read_more.png) center left no-repeat;
 
 	color: #2670c3;
 	font-weight: normal;
@@ -176,7 +176,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 }
 
 #templatemo_menu li a:hover, #templatemo_menu li .current {
-	background: url(images/menu_hover.png) no-repeat;
+	background: url(menu_hover.png) no-repeat;
 }
 
 
@@ -198,7 +198,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	padding: 40px 15px;
 	margin: 0 auto;
 	color: rgb(125, 94, 94);	
-    background: url(images/stalnoUsavrsavanje.png) no-repeat;
+    background: url(stalnoUsavrsavanje.png) no-repeat;
 
 }
 
@@ -273,7 +273,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	height: 105px;
 	padding: 7px;
 	margin-bottom: 10px;
-	background: url(images/templatemo_ot.png) no-repeat;
+	background: url(templatemo_ot.png) no-repeat;
 }
 
 .two_col_image span {
@@ -282,7 +282,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	left: 0;
 	width: 253px;
 	height: 119px;
-	background: url(images/templatemo_ot.png) no-repeat;
+	background: url(templatemo_ot.png) no-repeat;
 }
 
 .newsbox {
@@ -305,7 +305,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	left: 0;
 	width: 89px;
 	height: 59px;
-	background: url(images/news_image_frame.png) no-repeat;
+	background: url(news_image_frame.png) no-repeat;
 }
 
 .newsbox p {
@@ -319,7 +319,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	width: 914px;
 	height: 135px;
 	padding: 20px 30px;
-	background: url(images/latest_projects.png) no-repeat;
+	background: url(latest_projects.png) no-repeat;
 }
 
 #latest_project_text {
@@ -327,7 +327,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	width: 180px;
 	padding: 0 20px 0 0;
 	margin-right: 15px;
-	background: url(images/gallery_divider.png) right center no-repeat;
+	background: url(gallery_divider.png) right center no-repeat;
 }
 
 #latest_project_text p {
@@ -357,7 +357,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	left: 0;
 	width: 150px;
 	height: 113px;
-	background: url(images/project_image.png) no-repeat;
+	background: url(project_image.png) no-repeat;
 }
 
 /* testimonial */
@@ -366,7 +366,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 	width: 260px;
 	height: 246px;
 	padding: 20px 30px;
-	background: url(images/testimonial_newsletter.png) no-repeat;
+	background: url(testimonial_newsletter.png) no-repeat;
 }
 
 #testimonial {
