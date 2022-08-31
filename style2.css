@@ -7,7 +7,7 @@ body {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 12px;
 	color: #666666;
-    background: url(images/pozadinaZaKartice.jpg) no-repeat;
+    background: url(pozadinaZaKartice.jpg) no-repeat;
 
 }
 
@@ -36,11 +36,11 @@ img { margin: 0px; padding: 0px; border: none; }
 	font-size: 11px;
 	font-weight: bold;
 	text-decoration: none;
-	background: url(images/templatemo_button_01.png) no-repeat;
+	background: url(templatemo_button_01.png) no-repeat;
 }
 
 .button_01 a:hover {
-		background: url(images/templatemo_button_01_hover.png) no-repeat;	
+		background: url(templatemo_button_01_hover.png) no-repeat;	
 }
 
 h1 {
@@ -180,7 +180,7 @@ h3 {
 #templatemo_menu li a:hover, #templatemo_menu li .current {
 	position: relative;
 	color: #ffffff;
-	background: url(images/templatemo_menu_hover_right.png) right top no-repeat;
+	background: url(templatemo_menu_hover_right.png) right top no-repeat;
 }
 
 #templatemo_menu li a:hover span, #templatemo_menu li .current span {
@@ -189,7 +189,7 @@ h3 {
 	left: -5px;
 	height: 25px;
 	width: 5px;
-	background: url(images/templatemo_menu_hover_left.png) no-repeat;
+	background: url(templatemo_menu_hover_left.png) no-repeat;
 }
 
 /* end of menu*/
@@ -274,11 +274,11 @@ h3 {
 }
 
 #templatemo_follow_me .social_network li .facebook {
-	background: url(images/facebook_icon.png) no-repeat;
+	background: url(facebook_icon.png) no-repeat;
 }
 
 #templatemo_follow_me .social_network li .instagram {
-	background: url(images/instagram_icon.png) no-repeat;
+	background: url(instagram_icon.png) no-repeat;
 }
 /* end of menu */
 
