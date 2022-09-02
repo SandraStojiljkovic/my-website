@@ -153,13 +153,13 @@ ul li a { font-weight: normal; text-decoration: none; }
 /* feature */
 
 #templatemo_feature_wrapper {
-	width: 105%;
+	width: 108%;
 	height: 266px;
 
 }
 					 
 #templatemo_feature {
-	width: 105%;
+	width: 108%;
 	height: 95%;
 	padding: 30px 15px;
 	margin: 0 auto;
@@ -229,7 +229,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 
 .col_w265 {
    	float: inline-start;
-	width: 300px; 
+	width: 290px; 
    	height: 380px; 
 	padding: 20px 30px;
 	margin-top: 30px;
