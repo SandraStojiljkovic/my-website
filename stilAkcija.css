@@ -1,6 +1,6 @@
 
 body {
-	/*padding:0px;*/
+	padding:0px;
 	color: rgb(102, 102, 102);
 	font-family:cursive;
 	font-size:13px;
@@ -258,7 +258,7 @@ ul li a { font-weight: normal; text-decoration: none; }
 }
 .two_col_image {
 	position: relative;
-    width: 280px;
+    width: 260px;
 	height: 200px;
 	padding: 7px;
     border: 2px solid #ace2e0;
